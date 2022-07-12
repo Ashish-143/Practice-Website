@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.Top-container {
+  background-color: powderblue;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+  padding-left: 20px;
+}
+
+.Middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 420px;
+  top: 400px;
+}
+
+.Bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  position: absolute;
+
+}
